@@ -1,0 +1,14 @@
+C:\Users\s37399\Desktop\Lab6\Lab06\bin\Debug\net10.0\Lab06.exe
+C:\Users\s37399\Desktop\Lab6\Lab06\bin\Debug\net10.0\Lab06.deps.json
+C:\Users\s37399\Desktop\Lab6\Lab06\bin\Debug\net10.0\Lab06.runtimeconfig.json
+C:\Users\s37399\Desktop\Lab6\Lab06\bin\Debug\net10.0\Lab06.dll
+C:\Users\s37399\Desktop\Lab6\Lab06\bin\Debug\net10.0\Lab06.pdb
+C:\Users\s37399\Desktop\Lab6\Lab06\obj\Debug\net10.0\Lab06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37399\Desktop\Lab6\Lab06\obj\Debug\net10.0\Lab06.AssemblyInfoInputs.cache
+C:\Users\s37399\Desktop\Lab6\Lab06\obj\Debug\net10.0\Lab06.AssemblyInfo.cs
+C:\Users\s37399\Desktop\Lab6\Lab06\obj\Debug\net10.0\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\s37399\Desktop\Lab6\Lab06\obj\Debug\net10.0\Lab06.dll
+C:\Users\s37399\Desktop\Lab6\Lab06\obj\Debug\net10.0\refint\Lab06.dll
+C:\Users\s37399\Desktop\Lab6\Lab06\obj\Debug\net10.0\Lab06.pdb
+C:\Users\s37399\Desktop\Lab6\Lab06\obj\Debug\net10.0\Lab06.genruntimeconfig.cache
+C:\Users\s37399\Desktop\Lab6\Lab06\obj\Debug\net10.0\ref\Lab06.dll
